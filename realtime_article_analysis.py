@@ -6,7 +6,7 @@ import torch
 import numpy as np
 
 # Initialize Gemini Client
-client = genai.Client(api_key="AIzaSyAT0XBdVWzV16zDcBmu33o6VBnsfMrFeio")
+client = genai.Client(api_key="wertyuio")
 model_id = "gemini-2.0-flash"
 
 # Define Google Grounding Search Tool
