@@ -6,17 +6,17 @@ Here is the complete and updated README file, incorporating all the specific det
 
 ## Table of Contents
 
-  - [Project Overview](https://www.google.com/search?q=%23project-overview)
-  - [Features](https://www.google.com/search?q=%23features)
-  - [Architecture](https://www.google.com/search?q=%23architecture)
-  - [Getting Started](https://www.google.com/search?q=%23getting-started)
-      - [Prerequisites](https://www.google.com/search?q=%23prerequisites)
-      - [Installation](https://www.google.com/search?q=%23installation)
-  - [Usage](https://www.google.com/search?q=%23usage)
-  - [Project Structure](https://www.google.com/search?q=%23project-structure)
-  - [Contributing](https://www.google.com/search?q=%23contributing)
-  - [License](https://www.google.com/search?q=%23license)
-  - [Contact](https://www.google.com/search?q=%23contact)
+  - [Project Overview]
+  - [Features]
+  - [Architecture]
+  - [Getting Started]
+      - [Prerequisites]
+      - [Installation]
+  - [Usage]
+  - [Project Structure]
+  - [Contributing]
+  - [License]
+  - [Contact]
 
 ## Project Overview
 
